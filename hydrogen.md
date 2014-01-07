@@ -1,5 +1,7 @@
 #aerial photography
 
+![photo](aerialphoto.jpg)
+
 #structure
 
 2 hours, 30 kids
