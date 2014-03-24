@@ -2,98 +2,114 @@
 
 ![photo](aerialphoto.jpg)
 
-#structure
+## Introduction
 
-2 hours, 30 kids
+# Learning objectives
 
-## what do we need?
+* What are the components of a computer,
+* Sequences and Loops as fundamental concepts in programming,
+* Writing a simple program,
+* Computers can control cameras, and can be small and light,
+* Hydrogen is a way to get lift for a balloon,
+* Hydrogen is also a way to store energy.
+* Use maths to find something useful - how many balloons required.
 
-## lift.
+# Resources
 
-Q: ask for suggestions: hydrogen, helium. 
+* Scales,
+* Raspberry Pi,
+* Pi camera,
+* Hydrogen,
+* Balloons,
+* Lots of little strings,
+* Long string on a winder,
+* Fuel cell flashing light demo,
 
-How do we find out how much lift hydrogen and helium have? web search
-helium has 1g lift per litre.
-h2 has 1.2g lift per litre.
+# Lesson summary
 
-how much do we need? How much are we going to lift?
+* We're going to build an aerial photography robot!
+* What's in the payload?
+* Writing a program and using a loop.
+* How to get lift. 
+* Launch, photos and recovery
+* Plenary
 
-## payload
+## Introduction
+
+Explain to the kids that we're going to build an aerial photography platform to take photos from 20 meters up in the air. We need their help to get it to work.
+
+Q: What do we need to make this happen?
+A: a payload with a camera that can take lots of photos,
+A: a balloon to lift it in the air.
+A: something to power it.
+
+## Lift
+
+Q: How can we get lift?
+A: With a gas that's lighter than air, or hot air, or propellors like a helicopter. We're using hydrogen today. Which has a lift of 1.2g per litre.
+
+Q: How much lift required?
+A: We have to weigh the payload (and balloons and strings). Do the weighing and ask kids to write down the number.
+
+Q: How many litres of hydrogen are inside this inflated balloon?
+A: We can work it out with maths. Show formula, ask for a volunteer to measure circumference.
+
+Q: How do we go from circumference to radius for the volume formula? Show formula on board.
+
+Activity: Ask kids to fill in worksheets to calculate number of balloons required.
+
+## Payload
 
 Q: what is our payload going to be?
 A: camera, but how do we get it to take photos over and over? Use a computer
 
-Q: where else do we use computers?
-A: gps, watches, phones, shopping checkouts
+Q: what's inside a computer?
+A: show picture of Raspberry Pi and explain components: CPU, memory, USB ports, power socket, GPIO
 
-draw your computer onto the balloon.
+Optional activity: draw your favourite component onto your balloon.
 
-Q: has anyone written a computer program before?
-A: hopefully people are used to scratch. discuss what we need to take the photos.
+Activity: program your robot - ensure only 90 degree left and right turns are used and course contains a diagonal. How can we solve the repetion? Loops.
 
-## power
+Show kids how we build a sequence, and then add a loop to repeat it in Scratch.
 
-batteries or fuelcell?
+Q: what would our program to take photos look like in Scratch?
 
-### challenge
+Activity: hand out printed scratch blocks and get kids to arrange on the table in front of them. Kids in groups of 4.
 
-* write a computer program that makes scratch say hello
-* create a variable and increase it by one every time
+## Power
 
-## raspberry pi
+Q: How can we get the power?
 
-if we can, hook it up to the projecter and use a keyboard and mouse. Otherwise we'll have the program ready.
+Q: Did you know we can use hydrogen as a way of storing energy?
 
-## python programming - demonstration
+Demonstration of a fuel cell powering a flashing light.
 
-python is used for writing computer programs. It is textual, so instead of dragging pictures around, we write the words.
+## Raspberry Pi
 
-show a python program that prints out hello and a number every time. Then modify it so it changes to picture1.jpg ... etc
+Hook up Pi to the projecter and use a keyboard and mouse. Load the program and show it to the children.
 
-show a python program that can take a photo ,and show the photo.
+Start it running, show how it flashes a light and takes a photo.
 
-merge the 2 files.
+Show an example photo.
 
-## test
-
-start the program running on the pi and check photos are being taken.
-
-## launch!
+## Launch!
 
 * go outside and all fill balloons
 * tie all together - use something to tie it all
-* pay out raspi
+* pay out Raspi
 * get kids to spell out words on the playground
 * wind back
 
-## plenary
+## Plenary
 
 what did we learn?
 
 * computers aren't only laptops
-* writing a loop and increasing numbers
+* writing a loop and flashing a light
 * we can write programs that do cool things outside
-* hydrogen is a gas we can use for lifting
+* hydrogen is a gas we can use for lifting and powering
 
-## get photos off
+## Get photos off
 
-and give (usb keyring?) to the teacher.
+copy to USB stick and lend to the teacher.
 
-###
-
-#equipment:
-
-* scales
-* raspberry pi
-* pi camera
-* battery pack 
-* h2
-* balloons
-* lots of little strings
-* long string
-
-#todo
-
-* research lighter battery packs, but if can do with off-the-shelf then easier for teachers
-* will we have access to computers to write the program?
-* can we use a fuelcell + hydrogen?
