@@ -1,3 +1,21 @@
+# second f/c test
+
+- either another fc or more pressure
+- tested separate balloon, worked with 2 cells.
+
+# and stuff done
+
+- ordered caribiners
+- ordered corks
+
+# todo
+
+- change timings on h2mdk lib back
+- longer test
+- scratch camera
+
+
+
 #gotchas
 
 * issues with fuel cell powering pi 2nd test
