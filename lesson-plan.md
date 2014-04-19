@@ -19,13 +19,12 @@ Children design the program, calculate the amount of hydrogen needed and then ta
 
 # Resources
 
-* Scales,
+* Scales
 * Raspberry Pi,
 * Pi camera,
-* Hydrogen,
+* 200L Hydrogen,
 * Fuel cell and regulator,
-* Balloons,
-* Lots of little strings,
+* 200g weather balloon,
 * Long string on a winder,
 * Fuel cell flashing light demo,
 * SD card reader.
@@ -36,8 +35,8 @@ Children design the program, calculate the amount of hydrogen needed and then ta
 * [Risk assess](riskassess.pdf) the launch area. 
 * There must be no over head wires 50m in all directions from the launch spot.
 * Hydrogen stored outside with both valves closed,
-* Balloons filled outside.
-* Balloons emptied on site, not given away.
+* Balloon filled outside.
+* Balloon emptied on site, not given away.
 
 # Lesson Plan
 
@@ -60,28 +59,6 @@ A: a balloon to lift it in the air.
 
 A: something to power it.
 
-## Lift : 15 minutes
-
-Q: How can we get lift?
-
-A: With a gas that's lighter than air, or hot air, or propellors like a helicopter. We're using hydrogen today. Which has a lift of 1.2g per litre.
-
-Q: How much lift required?
-
-A: We have to weigh the payload (and balloons and strings). Do the weighing and ask children to write down the number.
-
-Q: How many litres of hydrogen are inside this inflated balloon?
-
-A: We can work it out with maths. Show formula, ask for a volunteer to measure circumference.
-
-$volume = \frac{4\pi r^{3}}{3}$
-
-Q: How do we go from circumference to radius for the volume formula? Show formula on board.
-
-$c = 2\pi r = pi d$
-
-Activity: Ask children to fill in worksheets to calculate number of balloons required.
-
 ## Payload : 5 minutes
 
 Q: what is our payload going to be?
@@ -92,9 +69,7 @@ Q: what's inside a computer?
 
 A: show picture of Raspberry Pi and explain components: CPU, memory, USB ports, power socket, GPIO
 
-![Raspberry Pi](raspi.jpg)
-
-Optional activity: draw your favourite component onto your balloon.
+![Raspberry Pi](raspi-3d.jpg)
 
 ### Program your robot : 25 minutes
 
@@ -140,9 +115,38 @@ Q: How can we get the power?
 
 Q: Did you know we can use hydrogen as a way of storing energy?
 
-Demonstration of a fuel cell powering a flashing light.
+![](fuelcell.jpg)
 
-Another activity here
+Demonstration of a balloon of hydrogen supplying a fuel cell that's powering a bright LED.
+
+Q: And where can we get Hydrogen from?
+
+A: Formula of water, break it with electrolysis.
+
+![](electrolysis.jpg)
+
+## Lift : 15 minutes
+
+Q: How can we get lift?
+
+A: With a gas that's lighter than air, or hot air, or propellors like a helicopter. We're using hydrogen today. Which has a lift of 1.2g per litre.
+
+Q: How much lift required?
+
+A: We have to weigh the payload (and balloon and string). Do the weighing and ask children to write down the number.
+
+Q: How big do we need the balloon to get the required lift?
+
+A: We can work it out with maths. Show formula, ask children to work through worksheet.
+
+$volume = \frac{4\pi r^{3}}{3}$
+
+Q: How do we go from circumference to radius for the volume formula? Show formula on board.
+
+$c = 2\pi r$
+
+Activity: Ask children to fill in worksheets to calculate number of balloons required.
+
 
 ## Raspberry Pi : 5 minutes
 
@@ -153,11 +157,11 @@ Another activity here
 ## Launch! : 30 minutes
 
 * Go outside to designated and risk assessed area,
-* Fill balloons,
-* Tie all together - use something to tie it all,
+* Fill balloon,
 * Pay out Raspi,
 * Take some photos!
-* Wind back the Pi and balloons.
+* Wind back the balloon.
+* Deflate balloon.
 
 ## Plenary : 10 minutes
 
@@ -172,7 +176,3 @@ Questions to ask:
 ## Get photos off the Pi.
 
 Power down the Pi and use an SD reader to copy the photos onto the teacher's computer.
-
-## Deflate balloons
-
-Children mustn't take balloons with them as a hydrogen filled balloon is too dangerous.

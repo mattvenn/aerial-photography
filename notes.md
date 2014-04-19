@@ -11,24 +11,26 @@
 #Todo
 
 * finish lesson plan : 2 hr
-    * 3d photo of Pi
-    * h2o fuel cell car explanation
+    * done: 3d photo of Pi
+    * done: h2o fuel cell car explanation
     * done: do the sums for volume and lift and check they work!
+    * branding
+    * done: get worksheet checked
 * chassis build : 1 hr
-    * winder? string?
-    * valve design & build : 1 hr - investigate bungs
+    * winder? string? - ordered a tester from ebay
+    * valve design & build : 1 hr - investigate bungs, ordered
     * led test, brighter and multi colour : do with fc test : 2hrs
     * build kits : 3 hrs
     * change timings on h2mdk lib back
     * longer test
         * either another fc or more pressure
-        * tested separate balloon, worked with 2 cells.
+        * done: test separate balloon, worked with 2 cells.
         * try double balloon
     * test duracell phone charger battery
-    * test scratch boot
-* branding
 * software:
     * done: extension to cymple si's scratch to add camera capability. : 2hrs
+    * done: scratch program
+    * scratch autoboot
     * time is always reset, so photos were merged. Need to delete all photos first.
     * crontab boot python alternative
 
@@ -57,11 +59,12 @@
 * valve
     * ordered corks
     * attacher for filling
-* plumbing - manual purge for h2, splitter?
+* plumbing - manual purge for h2, splitter? Arlan sending up
 * wiring: switch for adding pi after h2mdk ready, multi colour led for status
 * chassis
 * scales
 * keyboard, mouse, vga converter
+* nice box for it all to go in.
 * spare parts
     * fuel cells
     * string
@@ -69,6 +72,8 @@
     * bits to build complete extra chassis
     * sd cards
     * charge battery for safety
+    * battery pack with velcro
+    
 * done: scratch printouts images http://scratched.media.mit.edu/resources/vector-scratch-blocks:
 * print and laminate x 8
 
