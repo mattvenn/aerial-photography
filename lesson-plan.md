@@ -1,6 +1,6 @@
 # Aerial Photography
 
-![Aerial Photography](aerialphoto.jpg)
+\ ![Aerial Photography](aerialphoto.jpg)
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Children design the program, calculate the amount of hydrogen needed and then ta
 * Computers can control cameras, be small and light,
 * Hydrogen is a way to get lift for a balloon,
 * Hydrogen is also a way to store energy.
-* Calculate how many balloons required to lift the computer.
+* Calculate how big the balloon needs to be to lift the computer.
 
 # Resources
 
@@ -49,7 +49,7 @@ Children design the program, calculate the amount of hydrogen needed and then ta
 
 ## Introduction : 10 minutes
 
-Explain to the children that we're going to build an aerial photography platform to take photos from 20 meters up in the air. We need their help to get it to work.
+Explain to the children that we're going to build an aerial photography platform to take photos from 20 metres up in the air. We need their help to get it to work.
 
 Q: What do we need to make this happen?
 
@@ -69,7 +69,7 @@ Q: what's inside a computer?
 
 A: show picture of Raspberry Pi and explain components: CPU, memory, USB ports, power socket, GPIO
 
-![Raspberry Pi](raspi-3d.jpg)
+\ ![Raspberry Pi](raspi-3d.jpg)
 
 ### Program your robot : 25 minutes
 
@@ -97,11 +97,11 @@ A: loop some parts of the program.
 
 Show on the projector a simple Scratch program that does what our robot had to do:
 
-![Sequence](scratch_steps.png)
+\ ![Sequence](scratch_steps.png)
 
 Then adjust the program to create a loop:
 
-![Loop](scratch_loop.png)
+\ ![Loop](scratch_loop.png)
 
 ### Scratch program : 10 minutes
 
@@ -115,25 +115,29 @@ Q: How can we get the power?
 
 Q: Did you know we can use hydrogen as a way of storing energy?
 
-![](fuelcell.jpg)
+Q: And where can we get Hydrogen from? Formula of water?
+
+A: Explain electrolysis picture
+
+\ ![](electrolysis.jpg)
 
 Demonstration of a balloon of hydrogen supplying a fuel cell that's powering a bright LED.
 
-Q: And where can we get Hydrogen from?
-
-A: Formula of water, break it with electrolysis.
-
-![](electrolysis.jpg)
+\ ![](fuelcell.jpg)
 
 ## Lift : 15 minutes
 
 Q: How can we get lift?
 
-A: With a gas that's lighter than air, or hot air, or propellors like a helicopter. We're using hydrogen today. Which has a lift of 1.2g per litre.
+A: With a gas that's lighter than air, or hot air, or propellors like a helicopter. We're using hydrogen today. Which has a lift of 1200g per cubic metre.
+
+Q: How big a balloon do you think we need? Get children to guess. 
+
+Q: How could we work it out?
 
 Q: How much lift required?
 
-A: We have to weigh the payload (and balloon and string). Do the weighing and ask children to write down the number.
+A: We have to weigh the payload (and balloon and string). Do the weighing and ask children to write down the number. Then add a bit more (100g) so that the balloon goes up instead of stays still.
 
 Q: How big do we need the balloon to get the required lift?
 
@@ -141,12 +145,7 @@ A: We can work it out with maths. Show formula, ask children to work through wor
 
 $volume = \frac{4\pi r^{3}}{3}$
 
-Q: How do we go from circumference to radius for the volume formula? Show formula on board.
-
-$c = 2\pi r$
-
-Activity: Ask children to fill in worksheets to calculate number of balloons required.
-
+Activity: Ask children to fill in worksheets to work out how big the balloon should be.
 
 ## Raspberry Pi : 5 minutes
 
