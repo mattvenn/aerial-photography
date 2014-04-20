@@ -174,4 +174,6 @@ Questions to ask:
 
 ## Get photos off the Pi.
 
-Power down the Pi and use an SD reader to copy the photos onto the teacher's computer.
+* Power down the Pi and use an SD reader to copy the photos onto the teacher's computer.
+* Delete the photos, otherwise the card will quickly run out of space.
+
