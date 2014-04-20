@@ -18,7 +18,7 @@ Fill the small balloon with enough hydrogen to blow it up fully. Low pressure re
 * Wait until the status light starts flashing slower, and then wait for the first short circuit light to flash.
 * Turn on the Raspberry Pi.
 * The blue light should turn on and start flickering.
-* After the Pi has booted, the blue light will flash rapidly 3 times and turn off. This means the Pi has started successfully and will now load the camera software.
+* After the Pi has booted, the blue light will flash rapidly 3 times and turn off. This means the Pi has started successfully and will now load the camera software. While the Pi is running its yellow ACT light should flash in a heartbeat pattern.
 * After a few seconds, the blue light will come on, followed by the red camera light. Then both will switch off. This indicates a photo has been taken.
 
 ## Shutdown
