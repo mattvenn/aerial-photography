@@ -46,6 +46,7 @@
 * h2 has 1.2g lift per litre.
 * took 5 mins to inflate to 3m circumference, this was a 'bit more' than neutral buoyancy. 
 * When wind blew it blew down fairly quickly
+* h2mdk defaults were adapted for a 200ms purge every 30 seconds to cope with low h2 pressure.
 
 # Questions
 
