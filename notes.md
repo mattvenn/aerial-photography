@@ -17,6 +17,7 @@
     * branding
     * done: get worksheet checked
 * chassis build : 1 hr
+    * chassis should let reprogram arduino easily, allow hdmi and usb port easy access
     * winder? string? - ordered a tester from ebay
     * valve design & build : 1 hr - investigate bungs, ordered
     * led test, brighter and multi colour : do with fc test : 2hrs
@@ -50,21 +51,21 @@
 
 # Questions
 
-* latex degredation - testing. Done 2 launches so far
+* latex degredation - testing. Done 3 fills so far
 * h&s warning pre lesson?
 
 # Requirements 
 
 * string attachment stuff
     * ordered caribiners
-* valve
-    * ordered corks
+* valve stuff
+    * ordered bungs
     * attacher for filling
 * plumbing - manual purge for h2, splitter? Arlan sending up
 * wiring: switch for adding pi after h2mdk ready, multi colour led for status
 * chassis
 * scales
-* keyboard, mouse, vga converter
+* (keyboard), mouse, vga converter
 * nice box for it all to go in.
 * spare parts
     * fuel cells
@@ -72,6 +73,7 @@
     * balloons
     * bits to build complete extra chassis
     * sd cards
+    * sd adapter
     * charge battery for safety
     * battery pack with velcro
     
