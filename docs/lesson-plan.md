@@ -19,24 +19,25 @@ Children design the program, calculate the amount of hydrogen needed and then ta
 
 # Resources
 
-* Scales
 * Raspberry Pi,
 * Pi camera,
-* 200L Hydrogen,
-* Fuel cell and regulator,
+* Scales
+* 500L Hydrogen,
+* Fuel cell and controller,
 * 200g weather balloon,
-* Long string on a winder,
-* Fuel cell flashing light demo,
-* SD card reader.
+* 20m string on a winder,
+* SD card reader,
 * 15 [copies of the handout](aerial-handout.html)
 
 # Preparation
 
 * [Risk assess](riskassess.pdf) the launch area. 
-* There must be no over head wires 50m in all directions from the launch spot.
-* Hydrogen stored outside with both valves closed,
-* Balloon filled outside.
-* Balloon emptied on site, not given away.
+    * There must be no over head wires 50m in all directions from the launch spot.
+    * Hydrogen stored outside with both valves closed,
+    * Balloon filled and emptied outside.
+* Fill small balloon with hydrogen for fuel cell demo..
+* Check the Pi boots up and you can use the projector.
+* Check all photos are deleted from the Pi.
 
 # Lesson Plan
 
@@ -75,7 +76,7 @@ A: show picture of Raspberry Pi and explain components: CPU, memory, USB ports, 
 
 The most fundamental part of programming a computer is understanding that programs are made up of a sequence of commands.
 
-It’s important for us to also understand that a computer doesn’t have any intelligence - it has to be told exactly what to do. So when the program is wrong, the computer does the wrong thing.
+It's important for us to also understand that a computer doesn't have any intelligence - it has to be told exactly what to do. So when the program is wrong, the computer does the wrong thing.
 
 We want to help the children realise the importance of loops by making them repeat their commands many times.
 
@@ -109,6 +110,13 @@ Q: what would our program to take photos look like in Scratch?
 
 Activity: hand out printed scratch blocks and get children to arrange on the table in front of them. Kids in groups of 4.
 
+## Raspberry Pi : 5 minutes
+
+* Hook up Pi to the projecter and use a keyboard and mouse. Show the scratch program to the children.
+
+* Show how it flashes a light and takes a photo.
+* Show an example photo.
+
 ## Power : 15 minutes
 
 Q: How can we get the power?
@@ -121,7 +129,7 @@ A: Explain electrolysis picture
 
 \ ![](electrolysis.jpg)
 
-Demonstration of a balloon of hydrogen supplying a fuel cell that's powering a bright LED.
+Demonstrate the use of hydrogen by connecting it to the fuelcell on the chassis. Unclip the clamp, purge the valve and the LEDs will light on the control board, followed by the blue status LED.
 
 \ ![](fuelcell.jpg)
 
@@ -129,7 +137,7 @@ Demonstration of a balloon of hydrogen supplying a fuel cell that's powering a b
 
 Q: How can we get lift?
 
-A: With a gas that's lighter than air, or hot air, or propellors like a helicopter. We're using hydrogen today. Which has a lift of 1200g per cubic metre.
+A: With a gas that's lighter than air, or hot air, or propellors like a helicopter. We're using hydrogen today. Which has a lift of 1200g per cubic metre. So one cubic metre could lift 1200g.
 
 Q: How big a balloon do you think we need? Get children to guess. 
 
@@ -137,21 +145,13 @@ Q: How could we work it out?
 
 Q: How much lift required?
 
-A: We have to weigh the payload (and balloon and string). Do the weighing and ask children to write down the number. Then add a bit more (100g) so that the balloon goes up instead of stays still.
+A: We have to weigh the missing parts from the worksheet. Do the weighing and ask children to write down the numbers. Get the children to work out the total weight. It should be around 515g.
 
-Q: How big do we need the balloon to get the required lift?
+Q: How big do we need the balloon to get the required lift? 
 
-A: We can work it out with maths. Show formula, ask children to work through worksheet.
-
-$volume = \frac{4\pi r^{3}}{3}$
+A: We can work it out with maths.
 
 Activity: Ask children to fill in worksheets to work out how big the balloon should be.
-
-## Raspberry Pi : 5 minutes
-
-* Hook up Pi to the projecter and use a keyboard and mouse. Load the program and show it to the children.
-* Start it running, show how it flashes a light and takes a photo.
-* Show an example photo.
 
 ## Launch! : 30 minutes
 

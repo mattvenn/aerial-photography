@@ -3,41 +3,60 @@
 * 2 hours, 30 kids, upper KS2
 * 2 sessions per day at same school
 
-#Prep
+# Arcola Training Plan
 
-* inflate one balloon
-* test flasher demo
+## Things to decide
+
+* limit height of balloon
+* h&s warning pre lesson?
+
+## things to note
+
+* latex degredation - testing. Done lots fills so far
+
+## things to practice
+
+* fuel cell replacement / storage
+* 
 
 #Todo
 
-* finish lesson plan : 2 hr
+* buy
+    * order boxes
+* lesson plan 
     * print and laminate x 8 scratch bits
+    * host lesson plan html somewhere with link label
+    * backup in case pi display fails: screen shots on a usb stick
+    * get copies of scratch loop demos on the pi for demo
+    * branding
+    * proof read
+        * scratch program pics, check they line up with what we're using
     * done: 3d photo of Pi
     * done: h2o fuel cell car explanation
     * done: do the sums for volume and lift and check they work!
-    * branding
     * done: get worksheet checked
     * done: scratch printouts images http://scratched.media.mit.edu/resources/vector-scratch-blocks:
 * chassis build : 1 hr
-    * order box
-    * balloons & balloon valve
-    * valve design & build : 1 hr - investigate bungs, ordered
-    * build kits : 3 hrs
-    * chassis should let reprogram arduino easily, allow hdmi and usb port easy access
+    * build 2 kits : 3 hrs
+    * done: balloons & balloon valve
+    * done: valve design & build : 1 hr - investigate bungs, ordered. works but is heavy. ordered some 8mm hose clamps and hose
+    * done: chassis should let reprogram arduino easily, allow hdmi and usb port easy access
     * done: winder? string? - ordered a tester from ebay
     * done: led test, brighter and multi colour : do with fc test : 2hrs
     * done: change timings on h2mdk lib back
     * done: longer test
-        * done: either another fc or more pressure
-        * done: test separate balloon, worked with 2 cells.
-        * try double balloon
+* power
+    * done: change timings on h2mdk lib back
+    * either another fc or more pressure
+    * done: test separate balloon, worked with 2 cells.
+    * try double balloon
     * test duracell phone charger battery?
 * software:
+    * check we can do all with a mouse
     * done: extension to cymple si's scratch to add camera capability. : 2hrs
     * done: scratch program
     * done: scratch autoboot
     * done: time is always reset, so photos were merged. Need to delete all photos first.
-    * crontab boot python alternative?
 
 
 #Isle of Wight
@@ -54,32 +73,26 @@
 * When wind blew it blew down fairly quickly
 * h2mdk defaults were adapted for a 200ms purge every 30 seconds to cope with low h2 pressure.
 
-# Questions
+# Kit list
 
-* latex degredation - testing. Done 3 fills so far
-* h&s warning pre lesson?
-
-# Requirements 
-
+* nice box for it all to go in.
+* docs
 * string attachment stuff
 * valve stuff
-* plumbing - manual purge for h2, splitter? Arlan sending up
-* wiring: switch for adding pi after h2mdk ready, multi colour led for status
-* chassis
 * scales
-* (keyboard), mouse, vga converter
-* box
-* spare parts
+* (keyboard), mouse, vga converter, cable
+* spare parts/tools
+    * small flat screwdriver for fuelcell
     * fuel cells
     * string
-    * balloons
+    * weather balloons
+    * fuel cell balloons
     * bits to build complete extra chassis
-    * sd cards
+    * sd cards, pre loaded
+    * usb backup
     * sd adapter
     * charge battery for safety
     * battery pack with velcro
 * lesson materials:
-    * handout
+    * handouts
     * scratch bits printed and laminated
-
-
