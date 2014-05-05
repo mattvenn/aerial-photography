@@ -10,7 +10,7 @@ Fill the small balloon with enough hydrogen to blow it up fully. Low pressure re
 
 ## Startup
 
-* Attach the fuel cell.
+* Attach the fuel cell, ensure positive and negative are correct.
 * Connect the balloon to the fuel cell inlet.
 * Check the Raspberry Pi switch is off.
 * Unclip the gas clip.
