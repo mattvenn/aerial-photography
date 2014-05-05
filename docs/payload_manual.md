@@ -10,7 +10,13 @@ Fill the small balloon with enough hydrogen to blow it up fully. Low pressure re
 
 ## Startup
 
-* Attach the fuel cell, ensure positive and negative are correct.
+\ ![Payload top](payload_top.png)
+
+\ ![Payload front](payload_front.png)
+
+* Attach the fuel cell's wires, ensure positive and negative are correct.
+* Attach the fuel cell's purge outlet to the silicone tube.
+* Attach the fuel cell to the chassis with an elastic band.
 * Connect the balloon to the fuel cell inlet.
 * Check the Raspberry Pi switch is off.
 * Unclip the gas clip.
@@ -19,15 +25,15 @@ Fill the small balloon with enough hydrogen to blow it up fully. Low pressure re
     * check the gas clip,
     * try another purge,
     * replace the fuel cell.
-* Wait until the status LED starts flashing once per 2 seconds, and then wait for the first short circuit LED to flash.
-* Turn on the Raspberry Pi.
-* The blue LED should turn on and start flickering, followed by the Pi's ACT LED.
+* Wait until the status LED starts flashing once per 2 seconds.
+* Turn on the Raspberry Pi with the power switch.
+* The blue front panel status LED should turn on and start flickering, followed by the Pi's yellow ACT LED.
 * After the Pi has booted, the blue LED will flash rapidly 3 times and turn off. This means the Pi has started successfully and will now load the camera software. While the Pi is running its yellow ACT LED should flash in a heartbeat pattern.
 * After a few seconds, the blue LED will come on, followed by the red camera LED. Then both will switch off. This indicates a photo has been taken.
 
 ## Shutdown
 
-* Press the reset button. The blue LED should flash rapidly 3 times. Wait until all the LEDs are off on the Pi.
+* Press the reset button. The blue LED should flash rapidly 3 times. Wait until the blue status LED and the Pi's ACT LED are off.
 * Turn off the Pi's power switch
 * Disconnect the balloon and empty it.
 * Remove the fuel cell and place in its air tight bag.
