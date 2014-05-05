@@ -1,5 +1,9 @@
 # Payload Manual
 
+## Pre-flight check
+
+* Check that the system starts up as expected (see Startup section below)
+
 ## Hydrogen Filling
 
 Fill the small balloon with enough hydrogen to blow it up fully. Low pressure results in unreliable performance.

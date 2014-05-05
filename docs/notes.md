@@ -8,9 +8,18 @@
 * inflate one balloon
 * test flasher demo
 
+# Training Plan
+
+## Things to decide
+
+* limit height of balloon
+
+
 #Todo
 
 * finish lesson plan : 2 hr
+    * proof read
+        * scratch program pics, check they line up with what we're using
     * done: 3d photo of Pi
     * done: h2o fuel cell car explanation
     * done: do the sums for volume and lift and check they work!
@@ -18,10 +27,13 @@
     * done: get worksheet checked
 * chassis build : 1 hr
     * chassis should let reprogram arduino easily, allow hdmi and usb port easy access
-    * winder? string? - ordered a tester from ebay
-    * valve design & build : 1 hr - investigate bungs, ordered
+    * done: winder? string? - ordered a tester from ebay
+    * done: valve design & build : 1 hr - investigate bungs, ordered. works but is heavy. ordered some 8mm hose clamps and hose
     * led test, brighter and multi colour : do with fc test : 2hrs
     * build kits : 3 hrs
+        * buy scales
+        * pi vga cable
+        * check we can do all with a mouse
     * change timings on h2mdk lib back
     * longer test
         * either another fc or more pressure
@@ -57,22 +69,17 @@
 # Requirements 
 
 * string attachment stuff
-    * ordered caribiners
 * valve stuff
-    * ordered bungs
-    * attacher for filling
-* plumbing - manual purge for h2, splitter? Arlan sending up
-* wiring: switch for adding pi after h2mdk ready, multi colour led for status
-* chassis
 * scales
-* (keyboard), mouse, vga converter
+* (keyboard), mouse, vga converter, cable
 * nice box for it all to go in.
 * spare parts
     * fuel cells
     * string
-    * balloons
+    * weather balloons
+    * fuel cell balloons
     * bits to build complete extra chassis
-    * sd cards
+    * sd cards, pre loaded
     * sd adapter
     * charge battery for safety
     * battery pack with velcro
