@@ -28,6 +28,10 @@ Fill the small balloon with enough hydrogen to blow it up fully. Low pressure re
 * Disconnect the balloon and empty it.
 * Remove the fuel cell and place in its air tight bag.
 
+## Photos
+
+The photos need to be removed from the SD card as there is only space for about 30 minutes worth of material.
+
 ## Problems
 
 ### The Pi starts up, the heartbeat is flashing on the ACT LED, but no photos are taken.

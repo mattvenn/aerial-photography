@@ -11,29 +11,34 @@
 #Todo
 
 * finish lesson plan : 2 hr
+    * print and laminate x 8 scratch bits
     * done: 3d photo of Pi
     * done: h2o fuel cell car explanation
     * done: do the sums for volume and lift and check they work!
     * branding
     * done: get worksheet checked
+    * done: scratch printouts images http://scratched.media.mit.edu/resources/vector-scratch-blocks:
 * chassis build : 1 hr
-    * chassis should let reprogram arduino easily, allow hdmi and usb port easy access
-    * winder? string? - ordered a tester from ebay
+    * order box
+    * balloons & balloon valve
     * valve design & build : 1 hr - investigate bungs, ordered
-    * led test, brighter and multi colour : do with fc test : 2hrs
     * build kits : 3 hrs
-    * change timings on h2mdk lib back
-    * longer test
-        * either another fc or more pressure
+    * chassis should let reprogram arduino easily, allow hdmi and usb port easy access
+    * done: winder? string? - ordered a tester from ebay
+    * done: led test, brighter and multi colour : do with fc test : 2hrs
+    * done: change timings on h2mdk lib back
+    * done: longer test
+        * done: either another fc or more pressure
         * done: test separate balloon, worked with 2 cells.
         * try double balloon
-    * test duracell phone charger battery
+    * test duracell phone charger battery?
 * software:
     * done: extension to cymple si's scratch to add camera capability. : 2hrs
     * done: scratch program
-    * scratch autoboot
-    * time is always reset, so photos were merged. Need to delete all photos first.
-    * crontab boot python alternative
+    * done: scratch autoboot
+    * done: time is always reset, so photos were merged. Need to delete all photos first.
+    * crontab boot python alternative?
+
 
 #Isle of Wight
 
@@ -57,16 +62,13 @@
 # Requirements 
 
 * string attachment stuff
-    * ordered caribiners
 * valve stuff
-    * ordered bungs
-    * attacher for filling
 * plumbing - manual purge for h2, splitter? Arlan sending up
 * wiring: switch for adding pi after h2mdk ready, multi colour led for status
 * chassis
 * scales
 * (keyboard), mouse, vga converter
-* nice box for it all to go in.
+* box
 * spare parts
     * fuel cells
     * string
@@ -76,9 +78,8 @@
     * sd adapter
     * charge battery for safety
     * battery pack with velcro
-    
-* done: scratch printouts images http://scratched.media.mit.edu/resources/vector-scratch-blocks:
-* print and laminate x 8
-
+* lesson materials:
+    * handout
+    * scratch bits printed and laminated
 
 
