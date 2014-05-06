@@ -9,6 +9,7 @@
 
 * limit height of balloon
 * h&s warning pre lesson?
+* photo backup?
 
 ## things to note
 
@@ -17,7 +18,7 @@
 ## things to practice
 
 * fuel cell replacemet / storage
-* remove photos
+* remove photos, backup photos, transfer photos
 * demonstrate scratch
 
 #Todo
@@ -25,43 +26,21 @@
 * buy
     * order boxes
 * lesson plan 
-    * done: scratch program pics, check they line up with what we're using
     * print and laminate x 8 scratch bits
     * host lesson plan html somewhere with link label
-    * done: backup in case pi display fails: screen shots on a usb stick
-        * done: scratch demos
     * branding
-    * done: proof read
-    * done: 3d photo of Pi
-    * done: h2o fuel cell car explanation
-    * done: do the sums for volume and lift and check they work!
-    * done: get worksheet checked
-    * done: scratch printouts images http://scratched.media.mit.edu/resources/vector-scratch-blocks:
 * chassis build : 1 hr
     * build 2 kits : 3 hrs
-    * done: balloons & balloon valve
-    * done: valve design & build : 1 hr - investigate bungs, ordered. works but is heavy. ordered some 8mm hose clamps and hose
-    * done: chassis should let reprogram arduino easily, allow hdmi and usb port easy access
-    * done: winder? string? - ordered a tester from ebay
-    * done: led test, brighter and multi colour : do with fc test : 2hrs
-    * done: change timings on h2mdk lib back
-    * done: longer test
-* power
-    * done: change timings on h2mdk lib back
-    * done: either another fc or more pressure
-    * done: test separate balloon, worked with 2 cells.
+    * lighter valve
 * software:
+    * how to do photo copy? windows won't read file system.
     * get copies of scratch loop demos on the pi for demo
     * latest raspi cam into scratch_gpio
     * get new version of the scratch program into git
     * reset exposure stuff on the pi 
     * check we can do all with a mouse
-    * done: extension to cymple si's scratch to add camera capability. : 2hrs
-    * done: scratch program
-    * done: scratch autoboot
-    * done: time is always reset, so photos were merged. Need to delete all photos first.
 * documentation
-    * removing photos, screenshots
+    * transfer photos
 
 
 #Isle of Wight
