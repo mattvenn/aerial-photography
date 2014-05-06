@@ -43,6 +43,16 @@ Fill the small balloon with enough hydrogen to blow it up fully. Low pressure re
 
 The photos need to be removed from the SD card as there is only space for about 30 minutes worth of material.
 
+\ ![Removing Photos](remove_photos_labels.png)
+
+* Connect a screen and mouse to the Pi and start up. 
+* Scratch will start automatically, close this down.
+* Start the file browser (see image).
+* Navigate to /home/pi/photos
+* Select all the photos, press the right mouse button and select `delete`.
+* Use the shutdown button (see image) to shut the Pi down.
+
+
 ## Problems
 
 ### The Pi starts up, the heartbeat is flashing on the ACT LED, but no photos are taken.
