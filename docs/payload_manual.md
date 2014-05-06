@@ -3,6 +3,7 @@
 ## Pre-flight check
 
 * Check that the system starts up as expected (see Startup section below)
+* Ensure the photos have been removed from the SD card.
 
 ## Hydrogen Filling
 

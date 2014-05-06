@@ -16,21 +16,22 @@
 
 ## things to practice
 
-* fuel cell replacement / storage
-* 
+* fuel cell replacemet / storage
+* remove photos
+* demonstrate scratch
 
 #Todo
 
 * buy
     * order boxes
 * lesson plan 
+    * done: scratch program pics, check they line up with what we're using
     * print and laminate x 8 scratch bits
     * host lesson plan html somewhere with link label
-    * backup in case pi display fails: screen shots on a usb stick
-    * get copies of scratch loop demos on the pi for demo
+    * done: backup in case pi display fails: screen shots on a usb stick
+        * done: scratch demos
     * branding
-    * proof read
-        * scratch program pics, check they line up with what we're using
+    * done: proof read
     * done: 3d photo of Pi
     * done: h2o fuel cell car explanation
     * done: do the sums for volume and lift and check they work!
@@ -47,16 +48,20 @@
     * done: longer test
 * power
     * done: change timings on h2mdk lib back
-    * either another fc or more pressure
+    * done: either another fc or more pressure
     * done: test separate balloon, worked with 2 cells.
-    * try double balloon
-    * test duracell phone charger battery?
 * software:
+    * get copies of scratch loop demos on the pi for demo
+    * latest raspi cam into scratch_gpio
+    * get new version of the scratch program into git
+    * reset exposure stuff on the pi 
     * check we can do all with a mouse
     * done: extension to cymple si's scratch to add camera capability. : 2hrs
     * done: scratch program
     * done: scratch autoboot
     * done: time is always reset, so photos were merged. Need to delete all photos first.
+* documentation
+    * removing photos, screenshots
 
 
 #Isle of Wight

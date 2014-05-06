@@ -157,8 +157,8 @@ Activity: Ask children to fill in worksheets to work out how big the balloon sho
 
 * Go outside to designated and risk assessed area,
 * Fill balloon,
-* Pay out Raspi,
-* Take some photos!
+* Pay out the balloon up to a maximum set by your risk assessment.
+* Get the children to look up, make some shapes, spell some letters.
 * Wind back the balloon.
 * Deflate balloon.
 
@@ -169,11 +169,13 @@ Questions to ask:
 * What are the essential parts of a computer?
 * How do we avoid repeating ourselves as programmers?
 * How much hydrogen do we need to lift the computer?
+* How can we create hydrogen in a clean way?
+* How did we power the computer?
 
 # Cleanup
 
 ## Get photos off the Pi.
 
 * Power down the Pi and use an SD reader to copy the photos onto the teacher's computer.
-* Delete the photos, otherwise the card will quickly run out of space.
+* Backup and delete the photos, otherwise the card will quickly run out of space.
 
