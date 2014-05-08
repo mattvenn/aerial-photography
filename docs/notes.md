@@ -26,18 +26,14 @@
 * buy
     * order boxes
 * lesson plan 
-    * print and laminate x 8 scratch bits
     * host lesson plan html somewhere with link label
     * branding
 * chassis build : 1 hr
     * build 2 kits : 3 hrs
     * lighter valve
 * software:
-    * how to do photo copy? windows won't read file system.
-    * get copies of scratch loop demos on the pi for demo
-    * latest raspi cam into scratch_gpio
+    * how to do photo copy? windows won't read file system. try usb hub
     * get new version of the scratch program into git
-    * reset exposure stuff on the pi 
     * check we can do all with a mouse
 * documentation
     * transfer photos
