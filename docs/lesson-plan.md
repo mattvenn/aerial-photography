@@ -27,7 +27,8 @@ Children design the program, calculate the amount of hydrogen needed and then ta
 * 200g weather balloon,
 * 20m string on a winder,
 * SD card reader,
-* 15 [copies of the handout](aerial-handout.html)
+* 8 [copies of the handout](aerial-handout.html)
+* 8 copies of the scratch blocks
 
 # Preparation
 
@@ -171,11 +172,13 @@ Questions to ask:
 * How much hydrogen do we need to lift the computer?
 * How can we create hydrogen in a clean way?
 * How did we power the computer?
+* What did you like best?
+* What did you learn?
 
 # Cleanup
 
 ## Get photos off the Pi.
 
-* Power down the Pi and use an SD reader to copy the photos onto the teacher's computer.
+* Use the USB hub to copy photos from SD card onto USB stick.
 * Backup and delete the photos, otherwise the card will quickly run out of space.
 

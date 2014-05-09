@@ -3,69 +3,41 @@
 * 2 hours, 30 kids, upper KS2
 * 2 sessions per day at same school
 
-# Arcola Training Plan
-
-## Things to decide
-
-* limit height of balloon
-* h&s warning pre lesson?
-* photo backup?
-
-## things to note
-
-* latex degredation - testing. Done lots fills so far
-
-## things to practice
-
-* fuel cell replacemet / storage
-* remove photos, backup photos, transfer photos
-* demonstrate scratch
-
 #Todo
 
 * buy
     * order boxes
 * lesson plan 
+    * handout fix
     * host lesson plan html somewhere with link label
     * branding
+    * dry wipe pen - who order?
+    * blindfold
 * chassis build : 1 hr
     * build 2 kits : 3 hrs
-    * lighter valve
+    * easy release valve
 * software:
-    * how to do photo copy? windows won't read file system. try usb hub
     * get new version of the scratch program into git
-    * check we can do all with a mouse
+    * pi owned images
 * documentation
-    * transfer photos
-
-
-#Isle of Wight
-
-* bookings so far: 14
-* Feimatta does risk assessment
-* How is h2 being generated on island - electricity, sunstainable from solar
-
-#Technical notes
-
-* helium has 1g lift per litre.
-* h2 has 1.2g lift per litre.
-* took 5 mins to inflate to 3m circumference, this was a 'bit more' than neutral buoyancy. 
-* When wind blew it blew down fairly quickly
-* h2mdk defaults were adapted for a 200ms purge every 30 seconds to cope with low h2 pressure.
+    * transfer photos with usb hub and keyring
 
 # Kit list
 
 * nice box for it all to go in.
 * docs
+* blindfold
 * string attachment stuff
 * valve stuff
+* dry wipe pens
 * scales
-* (keyboard), mouse, vga converter, cable
+* mouse, vga converter, dv adapter
 * spare parts/tools
+    * base board spares
     * small flat screwdriver for fuelcell
     * fuel cells
     * string
-    * weather balloons
+    * weather balloons * 3
     * fuel cell balloons
     * bits to build complete extra chassis
     * sd cards, pre loaded

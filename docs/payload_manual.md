@@ -4,6 +4,8 @@
 
 * Check that the system starts up as expected (see Startup section below)
 * Ensure the photos have been removed from the SD card.
+* Check the Pi -> projector works
+* Fill a balloon for fuel cell demo and to start the Pi
 
 ## Hydrogen Filling
 
@@ -39,19 +41,26 @@ Fill the small balloon with enough hydrogen to blow it up fully. Low pressure re
 * Disconnect the balloon and empty it.
 * Remove the fuel cell and place in its air tight bag.
 
-## Photos
+## Copying and Removing Photos
+
+Photos should be copied for safe keeping and given to the teacher.
 
 The photos need to be removed from the SD card as there is only space for about 30 minutes worth of material.
 
 \ ![Removing Photos](remove_photos_labels.png)
 
-* Connect a screen and mouse to the Pi and start up. 
+* Connect a screen to the Pi and start up. 
+* Connect USB hub to Pi with mouse and USB attached.
+* Power up the Pi.
 * Scratch will start automatically, close this down.
 * Start the file browser (see image).
 * Navigate to /home/pi/photos
-* Select all the photos, press the right mouse button and select `delete`.
+* Select all the photos, press the right mouse button and select `copy`.
+* Navigate to the USB stick and right click `paste`
+* Wait for the copy to end, then eject and remove USB key.
+* Navigate back to /home/pi/photos
+* Select all photos, right click `delete` to remove.
 * Use the shutdown button (see image) to shut the Pi down.
-
 
 ## Problems
 
