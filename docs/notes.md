@@ -6,16 +6,19 @@
 #Todo
 
 * buy
-    * order boxes
+    * order boxes x 2
+    * powered usb hub x 2
+    * vga hdmi converter x 2
+    * 8gb sd card x 4
+    * dry wipe pen - who order?
+    * blindfold
 * lesson plan 
     * handout fix
     * host lesson plan html somewhere with link label
     * branding
-    * dry wipe pen - who order?
-    * blindfold
 * chassis build : 1 hr
     * build 2 kits : 3 hrs
-    * easy release valve
+    * easy release valve, releaseable cable ties
 * software:
     * get new version of the scratch program into git
     * pi owned images
