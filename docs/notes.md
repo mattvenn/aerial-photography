@@ -3,8 +3,6 @@
 * buy
     * mouse, 
     * scales
-* lesson plan 
-    * handout fix, screenshot of handout
 * chassis build
     * dv adapter, 
     * build 2 kits
