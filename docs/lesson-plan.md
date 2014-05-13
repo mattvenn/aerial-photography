@@ -1,3 +1,7 @@
+% Aerial Photography
+% Arcola Energy
+%
+
 # Aerial Photography
 
 \ ![Aerial Photography](aerialphoto.jpg)
@@ -37,8 +41,8 @@ Children design the program, calculate the amount of hydrogen needed and then ta
     * Hydrogen stored outside with both valves closed,
     * Balloon filled and emptied outside.
 * Fill small balloon with hydrogen for fuel cell demo..
-* Check the Pi boots up and you can use the projector.
-* Check all photos are deleted from the Pi.
+* Check the Pi boots up and you can use the projector. Navigate to the 'presentation' directory on the desktop.
+* Check all photos are deleted from the Pi (see the payload manual).
 
 # Lesson Plan
 
@@ -50,6 +54,8 @@ Children design the program, calculate the amount of hydrogen needed and then ta
 * Plenary.
 
 ## Introduction : 10 minutes
+
+Show the picture 1-aerialphoto.
 
 Explain to the children that we're going to build an aerial photography platform to take photos from 20 metres up in the air. We need their help to get it to work.
 
@@ -69,11 +75,13 @@ A: camera, but how do we get it to take photos over and over? Use a computer
 
 Q: what's inside a computer?
 
-A: show picture of Raspberry Pi and explain components: CPU, memory, USB ports, power socket, GPIO
+A: show picture of Raspberry Pi (2-raspi-3d) and explain components: CPU, memory, USB ports, power socket, GPIO
 
 \ ![Raspberry Pi](raspi-3d.jpg)
 
 ### Program your robot : 25 minutes
+
+Show the robot programming tables (3-robot).
 
 The most fundamental part of programming a computer is understanding that programs are made up of a sequence of commands.
 
@@ -87,9 +95,9 @@ Ask the students what commands the robot will need, and to write them down on th
 
 And we always have a `start` and `stop` code with associated sound effects!
 
-Ask the students to write down a program in their handouts that will navigate a robot successfully through the obstacle course.
+Ask the students in groups of 4 to write down a program in their handouts that will navigate a robot successfully through the obstacle course.
 
-Now ask for a volunteer robot and a volunteer programmer to see how well they complete the course. Force the robot to follow the programmer's instructions exactly. Computers have to follow the exact instructions given.
+For each team, ask for a volunteer robot and a volunteer programmer to see how well they complete the course. Force the robot to follow the programmer's instructions exactly. Computers have to follow the exact instructions given.
 
 The programs will include lots of repetition because we have the diagonal and only left 90 and right 90 turns. 
 
@@ -97,7 +105,7 @@ Q: how can we reduce the amount of writing we have to do?
 
 A: loop some parts of the program.
 
-Show on the projector a simple Scratch program that does what our robot had to do:
+Show on the projector a simple Scratch program that does what our robot had to do. These 2 programs are in the 'presentation' folder:
 
 \ ![Sequence](scratch_steps.png)
 
@@ -113,8 +121,7 @@ Activity: hand out printed scratch blocks and get children to arrange on the tab
 
 ## Raspberry Pi : 5 minutes
 
-* Hook up Pi to the projecter and use a keyboard and mouse. Show the scratch program to the children.
-
+* Run the balloon program (on the desktop).
 * Show how it flashes a light and takes a photo.
 * Show an example photo.
 
@@ -126,15 +133,19 @@ Q: Did you know we can use hydrogen as a way of storing energy?
 
 Q: And where can we get Hydrogen from? Formula of water?
 
-A: Explain electrolysis picture
+A: Explain electrolysis picture (4-electrolyis):
 
 \ ![](electrolysis.jpg)
 
 Demonstrate the use of hydrogen by connecting it to the fuelcell on the chassis. Unclip the clamp, purge the valve and the LEDs will light on the control board, followed by the blue status LED.
 
+Explain the fuel cell picture (5-fuelcell):
+
 \ ![](fuelcell.jpg)
 
 ## Lift : 15 minutes
+
+Show the worksheet picture (6-worksheet).
 
 Q: How can we get lift?
 
