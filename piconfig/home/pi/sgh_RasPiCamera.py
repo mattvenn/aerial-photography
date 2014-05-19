@@ -16,17 +16,18 @@
 #along with this program; if not, write to the Free Software
 #Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
-Version =  '0.0.1' # 13Apr14
+Version =  '0.0.1sw2' # 14Apr14 Change to get real user home name as runnign as sudo
 
 
-import os,glob
+import os,glob,pwd,grp
 
 class RasPiCamera:
 
     def __init__(self):
         print "pi camera init"
         self.num = 0
-        self.dir = '/home/pi/photos/'
+        self.user = os.getenv("SUDO_USER")
+        self.dir = ("/home/"+ self.user + "/photos/")
         try:
             os.mkdir(self.dir)
         except OSError:
@@ -48,6 +49,12 @@ class RasPiCamera:
         photo_file = self.dir + str(self.num) + '.jpg'
         os.system("raspistill -n -t 1 -o " + photo_file)
         print "photo taken: " + photo_file
+
+	#chown the photo so it can be modified by the user
+	uid = pwd.getpwnam(self.user).pw_uid
+	#assume group is same name as user
+	gid = grp.getgrnam(self.user).gr_gid
+	os.chown(photo_file, uid, gid)
         self.num += 1
 
 #### end RasPiCamera ###############################################################
