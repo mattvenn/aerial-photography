@@ -17,7 +17,6 @@
 * lost bits to re-order
     * raspi A
     * raspi Camera
-    * weather balloons
     * scales
     * tube & clamps
 
