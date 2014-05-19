@@ -19,6 +19,7 @@
     * weather balloon
     * fuel cell balloon
     * sd card
+    * cable ties
 * lesson materials:
     * 8 handouts per workshop
     * 8 sets of scratch blocks printed and laminated

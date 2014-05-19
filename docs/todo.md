@@ -1,39 +1,23 @@
 #Todo
 
-* buy
-    * mouse, 
-    * scales
 * chassis build
-    * dv adapter, 
     * build 2 kits
     * test easy release valve, releaseable cable ties
-* software:
-    * get new version of the scratch program into git
-    * pi owned images
-* arcola org
-    * provide pens
-    * print and laminate extra resources
-    * printing handouts
+    * valve adapter for filling balloons
+    * wiring - half done
+    * check string at home
+    * duplicate SD cards
+* arcola to provide:
+    * pens
+    * print and laminate scratch resources
+    * print handouts
+    * fuelcells, arduino boards, fuel cell controller, gas solenoids
+    * spare purge valve
 
-# Kit list
+* lost bits to re-order
+    * raspi A
+    * raspi Camera
+    * weather balloons
+    * scales
+    * tube & clamps
 
-* nice box for it all to go in.
-* docs
-* string attachment stuff
-* valve stuff
-* dry wipe pens
-* scales
-* mouse, vga converter, dv adapter
-* usb hub and power supply
-* spare parts/tools
-    * base board spares
-    * small flat screwdriver for fuelcell
-    * fuel cells
-    * string
-    * weather balloons * 3
-    * fuel cell balloons
-    * bits to build complete extra chassis
-    * sd cards, pre loaded
-* lesson materials:
-    * 8 handouts per workshop
-    * 8 sets of scratch blocks printed and laminated
