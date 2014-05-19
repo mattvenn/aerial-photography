@@ -10,14 +10,10 @@
 * software:
     * get new version of the scratch program into git
     * pi owned images
-* arcola org
-    * provide pens
-    * print and laminate extra resources
-    * printing handouts
 
 # Kit list
 
-* nice box for it all to go in.
+* storage box
 * docs
 * string attachment stuff
 * valve stuff
