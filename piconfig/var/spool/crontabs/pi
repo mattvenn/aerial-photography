@@ -24,4 +24,4 @@
 # 
 # m h  dom mon dow   command
 @reboot sudo python reboot.py
-* * * * * uptime >> uptime.log
+#* * * * * uptime >> uptime.log
