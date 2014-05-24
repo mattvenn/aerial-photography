@@ -6,7 +6,7 @@
 * valve stuff
 * dry wipe pens
 * scales
-* payload: Pi, baseboard, arduino, wiring, camera, sd card, fuelcell
+* payload: Pi, baseboard, arduino, wiring, camera, sd card, fuelcell, plumbing, solendoid
 * weather balloon
 * fuelcell balloon
 * mouse, vga converter, dv adapter
@@ -15,6 +15,7 @@
     * base board spares
     * small flat screwdriver for fuelcell
     * fuelcell
+    * plumbing
     * string
     * weather balloon
     * fuel cell balloon
