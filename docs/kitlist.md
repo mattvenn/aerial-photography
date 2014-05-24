@@ -12,6 +12,7 @@
 * mouse, vga converter, dv adapter
 * usb hub and power supply
 * spare parts/tools:
+    * rubber bands for fuelcell attachment
     * base board spares
     * small flat screwdriver for fuelcell
     * fuelcell
