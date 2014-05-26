@@ -6,6 +6,8 @@
 * valve stuff
 * dry wipe pens
 * scales
+* adapter for weather balloon
+* adapter for fuelcell balloon
 * payload: Pi, baseboard, arduino, wiring, camera, sd card, fuelcell, plumbing, solendoid
 * weather balloon
 * fuelcell balloon
